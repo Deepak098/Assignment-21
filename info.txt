@@ -1,0 +1,92 @@
+
+[
+    {
+        ename: "rohit goyal",
+        department: "clerical staff",
+        designation: "Developer",
+        salary: "35000",
+        dataofjoining:"06/24/1998",
+        city: "Singapore"
+    },
+
+    {
+        ename: "Sumit kumar",
+        department: "support staff",
+        designation: "Developer",
+        salary: "7000",
+        dataofjoining:"07/2/2018",
+        city: "New York"
+    } ,
+
+    {
+        ename: "Armaan malik",
+        department: "ops staff",
+        designation: "development_Staff",
+        salary: "25000",
+        dataofjoining:"08/4/1995",
+        city: "San Fransciso, CA"
+    },
+
+    {
+        ename: "Ketan Sharma",
+        department: "development staff",
+        designation: "Developer",
+        salary: "10000",
+        dataofjoining:"09/9/2008",
+        city: "Bangalore"
+    },
+
+    {
+        ename: "Tarun Thakur",
+        department: "management staff",
+        designation: "development_staff",
+        salary: "50000",
+        dataofjoining:"06/3/1992",
+        city: "New York"
+    },
+
+    {
+        ename: "Love Thakur",
+        department: "logistics staff",
+        designation: "Developer",
+        salary: "25000",
+        dataofjoining:"06/6/2001",
+        city: "singapore"
+    },
+
+    {
+        ename: "Harsh jaswal",
+        department: "clerical staff",
+        designation: "development_staff",
+        salary: "15000",
+        dataofjoining:"02/05/2005",
+        city: "San Franscisco, CA"
+    },
+
+    {
+        ename: "Ankush Thakur",
+        department: "support staff",
+        designation: "Developer",
+        salary: "30000",
+        dataofjoining:"06/8/1997",
+        city: "New York"
+    },
+
+    {
+        ename: "Sandeep kumar",
+        department: "ops staff",
+        designation: "development_staff",
+        salary: "2000",
+        dataofjoining:"06/1/2004",
+        city: "Delhi"
+    },
+
+    {
+        ename: "Amit sood",
+        department: "development staff",
+        designation: "Developer",
+        salary: "8000",
+        dataofjoining:"06/24/1998",
+        city: "Bangalore"
+    }
+]
